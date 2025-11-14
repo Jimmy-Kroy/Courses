@@ -201,3 +201,6 @@ Remember: **T**houghtfully **C**reate **R**eally **E**xcellent **I**nputs!
 ---
 
 *Master these principles and you'll unlock the full potential of AI tools in your workflows.* 🚀
+
+## References
+1) The Google Prompting Essentials courses can be found [here](https://www.coursera.org/specializations/prompting-essentials-google).
