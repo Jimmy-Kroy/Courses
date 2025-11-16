@@ -41,7 +41,7 @@ Here's an uncomfortable truth: **AI hallucinates.**
 
 These "hallucinations" are outputs that don't match reality—from completely fabricated facts to subtly incorrect details that slip past unnoticed. The latter is particularly dangerous.
 
-<img src="../Assets/confidence_vs_accuracy..png" style="max-width: 800px; width: 100%">
+<img src="../Assets/confidence_vs_accuracy..png" style="max-height: 400px; height: 100%">
 
 *Figure 2: confidence is not equal to accuracy* 
 
