@@ -19,9 +19,9 @@ The biggest mindset shift? AI isn't a one-shot deal where you input a command an
 
 This mirrors how we naturally work with humans. You wouldn't expect a designer to nail the perfect logo from a single sentence, right? You'd collaborate, give feedback, refine the vision.
 
-<img src="../Assets/old_way_vs_new_way.png" alt="Old way vs new way" style="width: 300px;">
+<img src="../Assets/old_way_vs_new_way.png" style="max-width: 800px; width: 100%">
 
-![Old way vs new way](../Assets/old_way_vs_new_way.png)
+*Figure 1: Old way vs New way* 
 
 **Real-world example:** Tris, Director of Product Management at Google DeepMind, needed a team logo. His first attempt? Weird results. But instead of giving up, he started a conversation:
 - First refinement: specified colors
@@ -41,7 +41,9 @@ Here's an uncomfortable truth: **AI hallucinates.**
 
 These "hallucinations" are outputs that don't match reality—from completely fabricated facts to subtly incorrect details that slip past unnoticed. The latter is particularly dangerous.
 
-[Image: Warning sign with text "AI confidence ≠ AI accuracy"]
+<img src="../Assets/confidence_vs_accuracy..png" style="max-width: 800px; width: 100%">
+
+*Figure 2: confidence is not equal to accuracy* 
 
 ### **Critical Rule:** You are the human in the loop. Always verify.
 
@@ -67,7 +69,9 @@ Instead of:
 Try:
 > "You're a senior marketing executive with 15 years of B2B SaaS experience. Create a marketing plan for..."
 
-[Image: Business cards showing different AI personas - "Marketing Executive," "Technical Writer," "Financial Analyst"]
+<img src="../Assets/ai_persona.png" style="max-width: 800px; width: 100%">
+
+*Figure 3: Give the AI a persona* 
 
 This single instruction helps the AI:
 - 🎯 Filter out irrelevant information
@@ -85,7 +89,9 @@ Why limit yourself to text when you can **combine words, images, and more?**
 
 Multimodal prompting reflects how humans naturally experience the world—building understanding through multiple senses simultaneously.
 
-[Image: Visual showing text + image + audio inputs feeding into AI, producing rich outputs]
+<img src="../Assets/multimodal.png" style="max-width: 800px; width: 100%">
+
+*Figure 4: Multimodal Prompting* 
 
 ### **Game-changing applications:**
 
@@ -108,7 +114,9 @@ Here's the paradigm shift: **For the first time ever, computers are learning to 
 
 Not Python. Not command-line syntax. Not complex menus. **Human conversation.**
 
-[Image: Timeline showing "Past: Humans learn computer language" → "Present: Computers learn human language"]
+<img src="../Assets/computers_speak_human_language.png" style="max-width: 800px; width: 100%">
+
+*Figure 5: Today Computers learn human language* 
 
 > "I think this is the new language. It's the new language by which we converse with computers. And the amazing part is that for the first time, computers actually listen to us. They talk the way that we want to talk."  
 > — **Tris**, Director of Product Management at Google DeepMind
@@ -136,7 +144,9 @@ Getting exceptional results from generative AI requires five fundamental shifts:
 4. **Go multimodal** → Communicate beyond text
 5. **Embrace the new language** → You already speak it fluently
 
-[Image: Person collaborating with AI hologram, both contributing ideas to a shared creative project]
+<img src="../Assets/collaborating.png" style="max-width: 800px; width: 100%">
+
+*Figure 6: Person collaborating with AI * 
 
 ---
 
