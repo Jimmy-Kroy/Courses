@@ -19,7 +19,7 @@ The biggest mindset shift? AI isn't a one-shot deal where you input a command an
 
 This mirrors how we naturally work with humans. You wouldn't expect a designer to nail the perfect logo from a single sentence, right? You'd collaborate, give feedback, refine the vision.
 
-<img src="../Assets/old_way_vs_new_way.png" style="max-width: 800px; width: 100%">
+<img src="../Assets/old_way_vs_new_way.png" style="max-width: 600px; width: 100%">
 
 *Figure 1: Old way vs New way* 
 
