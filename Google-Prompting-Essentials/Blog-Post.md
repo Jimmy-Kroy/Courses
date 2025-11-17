@@ -19,7 +19,7 @@ The biggest mindset shift? AI isn't a one-shot deal where you input a command an
 
 This mirrors how we naturally work with humans. You wouldn't expect a designer to nail the perfect logo from a single sentence, right? You'd collaborate, give feedback, refine the vision.
 
-<img src="../Assets/old_way_vs_new_way.png" width="700" height="700" style="object-fit: contain;">
+<img src="./Assets/old_way_vs_new_way.png" width="700" height="700" style="object-fit: contain;">
 
 *Figure 1: Old way vs New way* 
 
@@ -41,7 +41,7 @@ Here's an uncomfortable truth: **AI hallucinates.**
 
 These "hallucinations" are outputs that don't match reality—from completely fabricated facts to subtly incorrect details that slip past unnoticed. The latter is particularly dangerous.
 
-<img src="../Assets/confidence_vs_accuracy.png" width="700" height="700" style="object-fit: contain;">
+<img src="./Assets/confidence_vs_accuracy.png" width="700" height="700" style="object-fit: contain;">
 
 *Figure 2: confidence is not equal to accuracy* 
 
@@ -69,7 +69,7 @@ Instead of:
 Try:
 > "You're a senior marketing executive with 15 years of B2B SaaS experience. Create a marketing plan for..."
 
-<img src="../Assets/ai_persona.png" width="700" height="700" style="object-fit: contain;">
+<img src="./Assets/ai_persona.png" width="700" height="700" style="object-fit: contain;">
 
 *Figure 3: Give the AI a persona* 
 
@@ -89,7 +89,7 @@ Why limit yourself to text when you can **combine words, images, and more?**
 
 Multimodal prompting reflects how humans naturally experience the world—building understanding through multiple senses simultaneously.
 
-<img src="../Assets/multimodal.png" width="700" height="700" style="object-fit: contain;">
+<img src="./Assets/multimodal.png" width="700" height="700" style="object-fit: contain;">
 
 *Figure 4: Multimodal Prompting* 
 
@@ -114,7 +114,7 @@ Here's the paradigm shift: **For the first time ever, computers are learning to 
 
 Not Python. Not command-line syntax. Not complex menus. **Human conversation.**
 
-<img src="../Assets/computers_speak_human_language.png" width="700" height="700" style="object-fit: contain;">
+<img src="./Assets/computers_speak_human_language.png" width="700" height="700" style="object-fit: contain;">
 
 *Figure 5: Today Computers learn human language* 
 
@@ -144,7 +144,7 @@ Getting exceptional results from generative AI requires five fundamental shifts:
 4. **Go multimodal** → Communicate beyond text
 5. **Embrace the new language** → You already speak it fluently
 
-<img src="../Assets/collaborating.png" width="700" height="700" style="object-fit: contain;">
+<img src="./Assets/collaborating.png" width="700" height="700" style="object-fit: contain;">
 
 *Figure 6: Person collaborating with AI * 
 
